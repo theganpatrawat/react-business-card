@@ -9,6 +9,7 @@ export default function App(){
       <Photo/>
       <Main/>
       <Social/>
+      <button>Just a test</button>
     </div>
   );
 };
